@@ -24,6 +24,7 @@ custom_header:
 | {{ viewIndex }}      | Active view/tab's index number                                                                                                                                                                               |
 | {{ url }}            | The URL of the page                                                                                                                                                                                          |
 | {{ userAgent }}      | Current User Agent as string                                                                                                                                                                                 |
+| {{ hassVersion }}    | Home Assitant version running                                       |
 | {{ time }}           | Clock                                                                                                                                                                                                        |
 | {{ date }}           | Date                                                                                                                                                                                                         |
 | {{ monthNum }}       | Month's number                                                                                                                                                                                               |
